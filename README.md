@@ -5,7 +5,8 @@ List all files (recursively) in a directory
 ```> ./typewalk.exe walk --path "C:\\"```
 
 ## Example json output
-```{
+```
+{
   "folder": "Windows\\BitLockerDiscoveryVolumeContents",
   "file_count": 41,
   "file_types": {
@@ -34,4 +35,4 @@ List all files (recursively) in a directory
    ".ttf": 16
   },
   "additional_info": ""
- },```
+ },
