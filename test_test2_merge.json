@@ -1,0 +1,22 @@
+[
+ {
+  "folder": "$Recycle.Bin\\S-1-5-18",
+  "file_count": 104,
+  "file_types": {
+   "": 2,
+   ".a4": 23,
+   ".dat": 2,
+   ".ini": 2
+  },
+  "additional_info": "test 1,test 3"
+ },
+ {
+  "folder": "$Recycle.Bin\\S-1-5-18\\$R0XK40T",
+  "file_count": 102,
+  "file_types": {
+   ".a4": 2,
+   ".dat": 2
+  },
+  "additional_info": "test 2,test 4"
+ }
+]
