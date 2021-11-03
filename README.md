@@ -2,7 +2,12 @@
 List all files (recursively) in a directory
 
 ## Usage:
+
+### recursively walk
 ```> ./typewalk.exe walk --path "C:\\"```
+
+### merge two files
+```> ./typewalk.exe merge --file1 "host1.json" --file2 "host2.json"```
 
 ## Example json output
 ```
