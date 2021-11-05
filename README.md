@@ -1,5 +1,5 @@
 # typewalk
-List all files (recursively) in a directory
+List and count all file types (recursively) in a directory
 
 ## Usage:
 
